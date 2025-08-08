@@ -11,7 +11,7 @@ It is ideal for students, beginners, or anyone who wants to strengthen their dat
    - Introduction to Database Management Systems  
    - Advantages of DBMS over file systems  
    - Types of DBMS (Relational, NoSQL, Hierarchical, Network)  
-   - Examples of DBMS software
+   - History of DBMS
 
 2. **Entity-Relationship (ER) Modeling**  
    - Basics of ER diagrams  
